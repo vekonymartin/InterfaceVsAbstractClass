@@ -1,0 +1,11 @@
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass.deps.json
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass.runtimeconfig.json
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass.runtimeconfig.dev.json
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass.dll
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/bin/Debug/netcoreapp3.1/InterfaceVsClass.pdb
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/obj/Debug/netcoreapp3.1/InterfaceVsClass.csprojAssemblyReference.cache
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/obj/Debug/netcoreapp3.1/InterfaceVsClass.AssemblyInfoInputs.cache
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/obj/Debug/netcoreapp3.1/InterfaceVsClass.AssemblyInfo.cs
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/obj/Debug/netcoreapp3.1/InterfaceVsClass.dll
+/Users/vekony.martin/Documents/C#/InterfaceVsClass/InterfaceVsClass/obj/Debug/netcoreapp3.1/InterfaceVsClass.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{62D0843B-ED10-4CFB-9D9A-A227D55FA13E}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfaceVsClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceVsClass/Program.cs">
+    <Files>
+      <File FileName="InterfaceVsClass/Program.cs" Line="22" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceVsClass" expanded="True">
+            <Node name="InterfaceVsClass" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
